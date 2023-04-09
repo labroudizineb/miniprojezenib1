@@ -9,17 +9,7 @@
     <link rel="stylesheet" href="style1.css">
 </head>
 <body>
-    <h1>Bien venu sur mon site web !</h1>
-    <h2>Comment utiliser la calculatrice ?</h2>
-    <div id="s">
-    <pre>     
-         ||
-         ||
-       \\||//
-        \\//
-         \/
-        </pre>
-    </div>
+   
 <h3>Apprendre les fonctions basiques</h3>
 <div id="d">
         <ul> <b> Additionnez des chiffres avec la touche +.</b>
